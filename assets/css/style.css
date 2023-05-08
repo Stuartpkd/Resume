@@ -25,3 +25,10 @@
     border: 3px black solid;
     background-color: rgb(107, 75, 28);
 }
+
+.about-me-image {
+    width: 100px;
+    height: 100px;
+    border: 3px black solid;
+    background-color: rgb(107, 75, 28);
+}
