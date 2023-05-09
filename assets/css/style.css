@@ -1,23 +1,19 @@
+/* Hero Image section */
+
 .hero-image {
     width: 100vw;
     height: 100vh;
     background-color: blanchedalmond;
 }
 
+/* Contact details section */
+
 .contact-details {
     height: 70vh;
     background-color: rgb(237, 186, 109);
 }
 
-.about-me {
-    width: 100vw;
-    height: 70vh;
-    background-color: rgb(194, 148, 80);
-}
-
-.contact-text {
-    font-size: 1.5rem;
-}
+/* Contact details section */
 
 .contact-image {
     height: 150px;
@@ -25,16 +21,29 @@
     background-color: rgb(107, 75, 28);
 }
 
+.contact-text {
+    font-size: 1.5rem;
+}
+
+
+.image-container {
+    margin-top: 20px;
+    max-width: 400px;
+}
+
+/* About me section */
+
+.about-me {
+    width: 100vw;
+    height: 70vh;
+    background-color: rgb(194, 148, 80);
+}
+
 .about-me-image {
     height: 100px;
     width: 100px;
     border: 3px black solid;
     background-color: rgb(107, 75, 28);
-}
-
-.image-container {
-    margin-top: 20px;
-    max-width: 400px;
 }
 
 .image-row {
