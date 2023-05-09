@@ -27,7 +27,7 @@
 
 
 .image-container {
-    margin-top: 20px;
+    margin-top: 75px;
     max-width: 400px;
 }
 
@@ -40,12 +40,22 @@
 }
 
 .about-me-image {
-    height: 100px;
-    width: 100px;
+    height: 150px;
+    width: 150px;
     border: 3px black solid;
     background-color: rgb(107, 75, 28);
+    margin: 30px 0;
 }
 
 .image-row {
     padding-bottom: 25px;
+}
+
+#about-me-text {
+    margin: 30px 0;
+    padding-left: 10px;
+}
+
+#about-me-button {
+    margin: 30px 0;
 }
