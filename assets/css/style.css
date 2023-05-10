@@ -9,7 +9,6 @@
 /* Contact details section */
 
 .contact-details {
-    height: 70vh;
     background-color: rgb(237, 186, 109);
 }
 
@@ -28,7 +27,7 @@
 
 .image-container {
     margin-top: 75px;
-    max-width: 400px;
+
 }
 
 /* About me section */
