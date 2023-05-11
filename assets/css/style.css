@@ -8,16 +8,33 @@
     position: relative;
 }
 
+#hero-btn {
+    background-color: transparent;
+    box-shadow: none;
+    position: absolute;
+    bottom: 60px;
+    width: 5vw;
+    height: 25vh;
+}
+
+h1 {
+    color: #dca537;
+}
+
+p {
+    color: #dca537;
+}
+
 /* Contact details section */
 
 .contact-details {
-    background-color: rgb(237, 186, 109);
+    background-color: #042434;
 }
 
 /* Contact details section */
 
 .contact-image {
-    height: 150px;
+    min-height: 40vw;
     border: 3px black solid;
     background-color: rgb(107, 75, 28);
 }
@@ -37,7 +54,7 @@
 .about-me {
     width: 100vw;
     height: 70vh;
-    background-color: rgb(194, 148, 80);
+    background-color: #042434;
 }
 
 .about-me-image {
