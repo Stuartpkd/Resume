@@ -1,9 +1,11 @@
 /* Hero Image section */
 
 .hero-image {
+    background: url(/assets/images/hero-image.png) center center no-repeat;
     width: 100vw;
     height: 100vh;
     background-color: blanchedalmond;
+    position: relative;
 }
 
 /* Contact details section */
