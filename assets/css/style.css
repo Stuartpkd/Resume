@@ -79,3 +79,13 @@ p {
 }
 
 /* Footer */
+
+/* Media queries */
+
+@media only screen and (min-width: 992px) {
+    .contact-image {
+        min-height: 20vw;
+        border: 3px black solid;
+        background-color: rgb(107, 75, 28);
+    }
+}
