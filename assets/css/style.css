@@ -58,8 +58,8 @@ p {
 }
 
 .about-me-image {
-    height: 150px;
-    width: 150px;
+    min-height: 25vh;
+    min-width: 60vw;
     border: 3px black solid;
     background-color: rgb(107, 75, 28);
     margin: 30px 0;
@@ -76,6 +76,12 @@ p {
 
 #about-me-button {
     margin: 30px 0;
+}
+
+#about-me-cta {
+    background-color: #dca537;
+    min-height: 6vh;
+    min-width: 20vw;
 }
 
 /* Footer */
