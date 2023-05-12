@@ -96,7 +96,7 @@ p {
     }
 
     .about-me-image {
-        min-height: 40vh;
-        min-width: 30vw;
+        min-height: 300px;
+        min-width: 300px;
     }
 }
