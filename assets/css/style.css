@@ -59,7 +59,7 @@ p {
 
 .about-me-image {
     min-height: 25vh;
-    min-width: 60vw;
+    min-width: 30vw;
     border: 3px black solid;
     background-color: rgb(107, 75, 28);
     margin: 30px 0;
@@ -93,5 +93,10 @@ p {
         min-height: 20vw;
         border: 3px black solid;
         background-color: rgb(107, 75, 28);
+    }
+
+    .about-me-image {
+        min-height: 40vh;
+        min-width: 30vw;
     }
 }
