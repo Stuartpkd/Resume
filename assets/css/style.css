@@ -84,6 +84,14 @@ p {
     min-width: 20vw;
 }
 
+/* Form */
+
+#form-container {
+    position: relative;
+    top: 25%;
+    left: 0;
+}
+
 /* Footer */
 
 /* Media queries */
