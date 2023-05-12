@@ -87,10 +87,16 @@ p {
 /* Form */
 
 #form-container {
+    padding: 0 30px;
+    max-width: 800px;
     position: relative;
     top: 25%;
     left: 0;
 }
+
+.form-control {}
+
+
 
 /* Footer */
 
