@@ -5,6 +5,17 @@ body {
 
 }
 
+/* Nav */
+
+.nav-bar {
+    backdrop-filter: blur(40px);
+}
+
+a {
+    color: #042434 !important;
+    text-decoration: none;
+}
+
 /* Hero Image section */
 
 .hero-image {
