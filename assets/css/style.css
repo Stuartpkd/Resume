@@ -1,7 +1,7 @@
 body {
     padding: 0;
     margin: 0;
-    background-color: transparent;
+    background-color: #042434;
 
 }
 
@@ -137,7 +137,13 @@ p {
 
 /* Footer */
 
+.footer-container {
+    background-color: #042434;
+}
 
+.icons {
+    color: #dca537;
+}
 
 /* Media queries */
 
