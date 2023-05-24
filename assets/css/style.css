@@ -23,9 +23,14 @@ p {
 }
 
 body {
+    height: 100%;
     padding: none;
     margin: none;
     background-color: #042434 !important;
+}
+
+button {
+    box-shadow: none !important;
 }
 
 /* Nav */
@@ -96,7 +101,7 @@ p {
 
 .about-me {
     width: 100vw;
-    height: 100vh;
+    max-height: 115vh;
     background-color: #042434;
 }
 
@@ -110,18 +115,16 @@ p {
 
 
 #about-me-text {
+    max-width: 700px;
     margin-top: 30px;
     padding-left: 10px;
-}
-
-#about-me-button {
-    margin: 40px 0;
 }
 
 #about-me-cta {
     background-color: #dca537;
     min-height: 60px;
     min-width: 120px;
+    margin-top: 0px;
 }
 
 .about-me>h1 {
@@ -182,7 +185,6 @@ p {
 
 .footer-container {
     background-color: #042434;
-    margin-top: 100px;
 }
 
 .icons {
