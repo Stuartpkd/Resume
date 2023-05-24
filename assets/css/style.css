@@ -31,6 +31,8 @@ body {
 
 button {
     box-shadow: none !important;
+    font-family: 'Roboto Mono' !important;
+    color: #042434;
 }
 
 /* Nav */
@@ -135,23 +137,6 @@ p {
     font-size: 0.9rem;
 }
 
-/* Form */
-
-#form-container {
-    backdrop-filter: blur(30px);
-    padding: 30px 30px;
-    max-width: 800px;
-    position: relative;
-    top: 20%;
-    left: 0;
-}
-
-#form-btn {
-    background-color: #dca537;
-    min-height: 6vh;
-    min-width: 20vw;
-}
-
 /* Work */
 
 .experience-text {
@@ -180,6 +165,28 @@ p {
 
 .xp-bar {
     background-color: #dca537;
+}
+
+/* Form */
+
+#form-container {
+    backdrop-filter: blur(30px);
+    padding: 30px 30px;
+    max-width: 800px;
+    position: relative;
+    top: 20%;
+    left: 0;
+}
+
+#form-btn {
+    background-color: #dca537;
+    min-height: 60px;
+    min-width: 120px;
+}
+
+form {
+    font-family: 'Roboto Mono';
+    color: #042434;
 }
 
 /* Footer */
