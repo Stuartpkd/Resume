@@ -14,6 +14,7 @@ h2 {
     font-family: 'Roboto Mono';
     font-weight: 700;
     color: #042434;
+    font-size: 1.5rem;
 }
 
 p {
@@ -22,21 +23,27 @@ p {
 }
 
 body {
-    padding: 0;
-    margin: 0;
+    padding: none;
+    margin: none;
     background-color: #042434;
 }
 
 /* Nav */
 
-.nav-bar {
-    backdrop-filter: blur(40px);
-}
-
 a {
     color: #042434 !important;
     text-decoration: none;
+    font-family: 'Roboto Mono';
+    font-size: 1.5rem;
 }
+
+.fa-bars {
+    color: #dca537;
+}
+
+/* .nav-button {
+    color: #dca537 !important;
+} */
 
 /* Hero Image section */
 
