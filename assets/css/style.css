@@ -160,10 +160,12 @@ p {
 
 .work-text {
     color: #dca537;
+    padding: 10px 0;
 }
 
 #work-container {
     background-color: #042434;
+    margin-top: 20px;
 }
 
 .skill-container {
