@@ -37,14 +37,6 @@ a {
     font-size: 1.5rem;
 }
 
-.fa-bars {
-    color: #dca537;
-}
-
-/* .nav-button {
-    color: #dca537 !important;
-} */
-
 /* Hero Image section */
 
 .hero-image {
@@ -76,14 +68,19 @@ p {
 
 .contact-details {
     background-color: #042434;
+    padding: 1px;
 }
 
-/* Contact details section */
+.contact-details>h1 {
+    margin-top: 20px;
+    margin-left: 20px;
+}
 
 .contact-image {
     min-height: 40vw;
     border: 3px black solid;
     background-color: rgb(107, 75, 28);
+    margin: 20px;
 }
 
 .contact-text {
@@ -92,8 +89,7 @@ p {
 
 
 .image-container {
-    margin-top: 75px;
-
+    margin-top: 20px;
 }
 
 /* About me section */
