@@ -124,7 +124,6 @@ p {
     background-color: #dca537;
     min-height: 60px;
     min-width: 120px;
-    margin-top: 0px;
 }
 
 .about-me>h1 {
@@ -200,8 +199,28 @@ p {
         background-color: rgb(107, 75, 28);
     }
 
+    .about-me {
+        padding: 20px 0;
+    }
+
     .about-me-image {
         min-height: 300px;
         min-width: 300px;
+    }
+
+    #about-me-cta {
+        background-color: #dca537;
+        min-height: 70px;
+        min-width: 140px;
+        margin-top: 30px;
+    }
+
+    #about-me-text {
+        margin-right: 20px;
+        font-size: 1rem;
+    }
+
+    .text-image-container {
+        margin-top: 20px;
     }
 }
