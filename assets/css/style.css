@@ -85,15 +85,32 @@ p {
 
 .contact-image {
     min-height: 40vw;
-    border: 3px black solid;
-    background-color: rgb(107, 75, 28);
     margin: 20px;
+}
+
+.email-image {
+    background: url(/assets/images/email.png) center center no-repeat;
+    background-size: cover;
+}
+
+.github-image {
+    background: url(/assets/images/github.png) center center no-repeat;
+    background-size: cover;
+}
+
+.vimeo-image {
+    background: url(/assets/images/vimeo.png) center center no-repeat;
+    background-size: cover;
+}
+
+.instagram-image {
+    background: url(/assets/images/vimeo.png) center center no-repeat;
+    background-size: cover;
 }
 
 .contact-text {
     font-size: 1.5rem;
 }
-
 
 .image-container {
     margin-top: 20px;
@@ -203,9 +220,8 @@ form {
 
 @media only screen and (min-width: 992px) {
     .contact-image {
+        background-size: cover;
         min-height: 20vw;
-        border: 3px black solid;
-        background-color: rgb(107, 75, 28);
     }
 
     .about-me {
