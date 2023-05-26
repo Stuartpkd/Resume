@@ -47,7 +47,7 @@ a {
 /* Hero Image section */
 
 .hero-image {
-    background: url(/assets/images/hero-image.png) center center no-repeat;
+    background: url(/assets/gif/animated_hero_lrg.gif) center center no-repeat;
     width: 100vw;
     height: 100vh;
     background-color: blanchedalmond;
@@ -225,7 +225,14 @@ form {
 
 /* Media queries */
 
+@media only screen and (max-width: 992px) {
+    .hero-image {
+        background: url(/assets/gif/animated_hero_sml.gif) center center no-repeat;
+    }
+}
+
 @media only screen and (min-width: 992px) {
+
     .contact-image {
         background-size: cover;
         min-height: 20vw;
