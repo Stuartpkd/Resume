@@ -104,22 +104,22 @@ p {
 }
 
 .email-image {
-    background: url(/assets/images/email.png) center center no-repeat;
+    background: url(..//images/email.png) center center no-repeat;
     background-size: cover;
 }
 
 .github-image {
-    background: url(/assets/images/github.png) center center no-repeat;
+    background: url(..//images/github.png) center center no-repeat;
     background-size: cover;
 }
 
 .vimeo-image {
-    background: url(/assets/images/vimeo.png) center center no-repeat;
+    background: url(..//images/vimeo.png) center center no-repeat;
     background-size: cover;
 }
 
 .instagram-image {
-    background: url(/assets/images/linked.png) center center no-repeat;
+    background: url(..//images/linked.png) center center no-repeat;
     background-size: cover;
 }
 
@@ -140,7 +140,7 @@ p {
 }
 
 .about-me-image {
-    background: url(/assets/images/cpu.png) center center no-repeat;
+    background: url(..//images/cpu.png) center center no-repeat;
     background-size: cover;
     min-height: 300px;
     min-width: 300px;
@@ -249,7 +249,7 @@ form {
 
 @media only screen and (max-width: 992px) {
     .hero-image {
-        background: url(/assets/gif/animated_hero_sml.gif) center center no-repeat;
+        background: url(..//gif/animated_hero_sml.gif) center center no-repeat;
     }
 }
 
