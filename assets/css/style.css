@@ -72,6 +72,10 @@ a {
     height: 25vh;
 }
 
+.contact-hero {
+    margin: 20px 0;
+}
+
 h1 {
     color: #dca537;
 }
