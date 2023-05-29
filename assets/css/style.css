@@ -201,6 +201,7 @@ p {
 
 .skill-container {
     background-color: #042434;
+    margin: 20px 0;
 }
 
 /* Skills */
@@ -258,12 +259,12 @@ form {
 
 .footer {
     height: 50px;
-    /* Adjust the height as needed */
-    background-color: #f5f5f5;
 }
 
 .icons {
     color: #dca537;
+    font-size: 2rem;
+    padding: 0 20px
 }
 
 /* Media queries */
